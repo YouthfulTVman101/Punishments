@@ -179,7 +179,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Sixth time: Given Naughty Oofs role</li>
 </ul>
 
-<h2>Rule 24: No spoilers</h2>
+<h2>Rule 24: No excessive spoilers</h2>
 
 <ul>
 <li>Everytime: Delete Message and Warn Author</li>
