@@ -21,16 +21,16 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Third time: Mute for 10 min</li>
 <li>Fourth time: Mute for 30 min</li>
 <li>Fifth time: Mute for 1 hour</li>
-<li>Sixth time: Give Naughty Oofs role</li>
+<li>Sixth time: Given Naughty Oofs role</li>
 </ul>
 
-<h2>Rule 3: No pinging others for no reason (includes @everyone and @here)</h2>
+<h2>Rule 3: No pinging others for no reason</h2>
 
 <ul>
 <li>First time: Mute for 1 min</li>
 <li>Second time: Mute for 30 min</li>
 <li>Third time: Mute for 1 hour</li>
-<li>Fourth: Give Naughty Oofs role</li>
+<li>Fourth: Given Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 4: No spamming/raiding</h2>
@@ -48,7 +48,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Third time: Mute for 10 min</li>
 <li>Fourth time: Mute for 30 min</li>
 <li>Fifth time: 1 hour</li>
-<li>Sixth time: Give Naughty Oofs role</li>
+<li>Sixth time: Given Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 6: Be nice to everyone</h2>
@@ -66,7 +66,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Third time: Mute for 10 min</li>
 <li>Fourth time: Mute for 30 min</li>
 <li>Fifth time: 1 hour</li>
-<li>Sixth time: Give Naughty Oofs role</li>
+<li>Sixth time: Given Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 8: Behave yourself</h2>
@@ -87,7 +87,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>First time: Mute for 30 min</li>
 <li>Second time: 1 hour</li>
 <li>Third time: 5 hours</li>
-<li>Fourth time: Give Naughty Oofs role</li>
+<li>Fourth time: Given Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 11: Do not abuse the bots</h2>
@@ -96,13 +96,13 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Everytime: Warning</li>
 </ul>
 
-<h2>Rule 12: Do not tell others to harm themselves or threaten to harm yourself. If you need help, contact professionals</h2>
+<h2>Rule 12: Do not tell others to harm themselves or threaten to harm yourself</h2>
 
 <ul>
 <li>First time: Mute for 10 min</li>
 <li>Second time:  Mute for 30 min</li>
 <li>Third time: Mute for 1 hour</li>
-<li>Fourth time: Give Naughty Oofs role</li>
+<li>Fourth time: Given Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 13: No swearing</h2>
@@ -111,7 +111,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>First time: Warning and Delete Message</li>
 <li>Second time: Mute for 10 min</li>
 <li>Third time: Mute for 30 min</li>
-<li>Fourth time: Give Naughty Oofs role</li>
+<li>Fourth time: Given Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 14: No eating ducks</h2>
@@ -132,10 +132,10 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Everytime: Delete Message and Mute for 1 min</li>
 </ul>
 
-<h2>Rule 17: No joining a chat channel and going AFK to take up a spot (does not apply to Music)</h2>
+<h2>Rule 17: No AFK voice chatting (does not apply to Music)</h2>
 
 <ul>
-<li>The server automatically detects this but if they don't get detected then move them to the AFK channel manually</li>
+<li>Moved to the Muted/AFK voice channel</li>
 </ul>
 
 <h2>Rule 18: No advertising</h2>
@@ -168,7 +168,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Everytime: Delete Message and Warning</li>
 </ul>
 
-<h2>Rule 23: If your username/nickname breaks any of these rules you will be banned as soon as we see it</h2>
+<h2>Rule 23: If your username/nickname rule breaking</h2>
 
 <ul>
 <li>Why did you have to look here to find the punishment? It's literally in the rule's name</li>
@@ -182,7 +182,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Third time: Mute for 10 min</li>
 <li>Fourth time: Mute for 30 min</li>
 <li>Fifth time: Mute for 1 hour</li>
-<li>Sixth time: Give Naughty Oofs role</li>
+<li>Sixth time: Given Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 25: No spoilers</h2>
