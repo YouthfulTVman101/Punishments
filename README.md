@@ -1,3 +1,7 @@
+<h1>Oofs Of Robloxia Punishments</h1>
+Punishments are given out whenever a user breaks a rule
+To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
+
 <h2>Rule 1: No robux/rank begging</h2>
 
 <ul>
@@ -17,7 +21,7 @@
 <li>Third time: Mute for 10 min</li>
 <li>Fourth time: Mute for 30 min</li>
 <li>Fifth time: Mute for 1 hour</li>
-<li><Sixth time: Give Naughty Oofs role</li>
+<li>Sixth time: Give Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 3: No pinging others for no reason (includes @everyone and @here)</h2>
@@ -77,7 +81,7 @@
 <li>Everytime: Warning</li>
 </ul>
 
-<h2>Rule 10: DO NOT SEND ANYTHING NSFW OR ANY INAPPROPRIATE IMAGES/GIFS/MESSAGES/EMOJIS</h2>
+<h2>Rule 10: DO NOT SEND ANYTHING NSFW</h2>
 
 <ul>
 <li>First time: Mute for 30 min</li>
