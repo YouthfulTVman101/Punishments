@@ -162,10 +162,11 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Why is this a rule!</li>
 </ul>
 
-<h2>Rule 22: If your username/nickname rule breaking</h2>
+<h2>Rule 22: Username/nickname rule breaking</h2>
 
 <ul>
-<li>Why did you have to look here to find the punishment? It's literally in the rule's name</li>
+<li>First time: Censored Nickname</li>
+<li>Other times: Ban</li>
 </ul>
 
 <h2>Rule 23: No posting offensive memes</h2>
