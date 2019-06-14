@@ -5,7 +5,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <h2>Rule 1: No robux/rank begging</h2>
 
 <ul>
-<li>First time: Warning
+<li>First time: Warning</li>
 <li>Second time: Mute for 1 min</li>
 <li>Third time: Mute for 10 min</li>
 <li>Fourth time: Mute for 30 min</li>
@@ -16,7 +16,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <h2>Rule 2: No disrespecting other members</h2>
 
 <ul>
-<li>First time: Warning
+<li>First time: Warning</li>
 <li>Second time: Mute for 1 min</li>
 <li>Third time: Mute for 10 min</li>
 <li>Fourth time: Mute for 30 min</li>
