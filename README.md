@@ -30,7 +30,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>First time: Mute for 1 min</li>
 <li>Second time: Mute for 30 min</li>
 <li>Third time: Mute for 1 hour</li>
-<li>Fourth: Given Naughty Oofs role</li>
+<li>Fourth time: Given Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 4: No spamming/raiding</h2>
@@ -162,7 +162,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Why is this a rule!</li>
 </ul>
 
-<h2>Rule 22: Do not make your message with alot of caps (70% of the message is in CAPITAL LETTERS)</h2>
+<h2>Rule 22: Do not make messages in over 70% caps</h2>
 
 <ul>
 <li>Everytime: Delete Message and Warning</li>
