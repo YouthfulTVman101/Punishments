@@ -1,5 +1,5 @@
 <h1>Oofs Of Robloxia Punishments</h1>
-Punishments are given out whenever a user breaks a rule
+<p>Punishments are given out whenever a user breaks a rule</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
 <h2>Rule 1: No robux/rank begging</h2>
