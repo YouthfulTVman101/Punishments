@@ -126,34 +126,34 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Everytime: Warning</li>
 </ul>
 
-<h2>Rule 16: No telling others about the secrets</h2>
-
-<ul>
-<li>Everytime: Delete Message and Mute for 1 min</li>
-</ul>
-
-<h2>Rule 17: No AFK voice chatting (does not apply to Music)</h2>
+<h2>Rule 16: No AFK voice chatting (does not apply to Music)</h2>
 
 <ul>
 <li>Moved to the Muted/AFK voice channel</li>
 </ul>
 
-<h2>Rule 18: No advertising</h2>
+<h2>Rule 17: No advertising</h2>
 
 <ul>
 <li>Everytime: Delete message (does not apply to the advertising channel)</li>
 </ul>
 
-<h2>Rule 19: Youth isn't Yoshie</h2>
+<h2>Rule 18: Youth isn't Yoshie</h2>
 
 <ul>
 <li>No punishment</li>
 </ul>
 
-<h2>Rule 20: No saying the same message over and over and over and over and over again</h2>
+<h2>Rule 19: No saying the same message over and over and over and over and over again</h2>
 
 <ul>
 <li>Everytime: Delete Message</li>
+</ul>
+
+<h2>Rule 20: Do not make messages in over 70% caps</h2>
+
+<ul>
+<li>Everytime: Delete Message and Warning</li>
 </ul>
 
 <h2>Rule 21: <-- Is a dead meme</h2>
@@ -162,19 +162,13 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Why is this a rule!</li>
 </ul>
 
-<h2>Rule 22: Do not make messages in over 70% caps</h2>
-
-<ul>
-<li>Everytime: Delete Message and Warning</li>
-</ul>
-
-<h2>Rule 23: If your username/nickname rule breaking</h2>
+<h2>Rule 22: If your username/nickname rule breaking</h2>
 
 <ul>
 <li>Why did you have to look here to find the punishment? It's literally in the rule's name</li>
 </ul>
 
-<h2>Rule 24: No posting offensive memes</h2>
+<h2>Rule 23: No posting offensive memes</h2>
 
 <ul>
 <li>First time: Delete Message</li>
@@ -185,7 +179,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Sixth time: Given Naughty Oofs role</li>
 </ul>
 
-<h2>Rule 25: No spoilers</h2>
+<h2>Rule 24: No spoilers</h2>
 
 <ul>
 <li>Everytime: Delete Message and Warn Author</li>
