@@ -5,8 +5,8 @@
 <li>Second time: Mute for 1 min</li>
 <li>Third time: Mute for 10 min</li>
 <li>Fourth time: Mute for 30 min</li>
-<li>Fifth: 1 hour</li>
-<li>Sixth: Give Naughty Oofs role</li>
+<li>Fifth time: 1 hour</li>
+<li>Sixth time: Give Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 2: No disrespecting other members</h2>
@@ -16,8 +16,8 @@
 <li>Second time: Mute for 1 min</li>
 <li>Third time: Mute for 10 min</li>
 <li>Fourth time: Mute for 30 min</li>
-<li>Fifth: Mute for 1 hour</li>
-<li><Sixth: Give Naughty Oofs role</li>
+<li>Fifth time: Mute for 1 hour</li>
+<li><Sixth time: Give Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 3: No pinging others for no reason (includes @everyone and @here)</h2>
@@ -43,8 +43,8 @@
 <li>Second time: Mute for 1 min</li>
 <li>Third time: Mute for 10 min</li>
 <li>Fourth time: Mute for 30 min</li>
-<li>Fifth: 1 hour</li>
-<li>Sixth: Give Naughty Oofs role</li>
+<li>Fifth time: 1 hour</li>
+<li>Sixth time: Give Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 6: Be nice to everyone</h2>
@@ -61,8 +61,8 @@
 <li>Second time: Mute for 1 min</li>
 <li>Third time: Mute for 10 min</li>
 <li>Fourth time: Mute for 30 min</li>
-<li>Fifth: 1 hour</li>
-<li>Sixth: Give Naughty Oofs role</li>
+<li>Fifth time: 1 hour</li>
+<li>Sixth time: Give Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 8: Behave yourself</h2>
@@ -177,8 +177,8 @@
 <li>Second time:  Mute for 1 min</li>
 <li>Third time: Mute for 10 min</li>
 <li>Fourth time: Mute for 30 min</li>
-<li>Fifth: Mute for 1 hour</li>
-<li>Sixth: Give Naughty Oofs role</li>
+<li>Fifth time: Mute for 1 hour</li>
+<li>Sixth time: Give Naughty Oofs role</li>
 </ul>
 
 <h2>Rule 25: No spoilers</h2>
