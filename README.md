@@ -150,26 +150,20 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Everytime: Delete Message</li>
 </ul>
 
-<h2>Rule 20: Do not make messages in over 70% caps</h2>
-
-<ul>
-<li>Everytime: Delete Message and Warning</li>
-</ul>
-
-<h2>Rule 21: <-- Is a dead meme</h2>
+<h2>Rule 20: <-- Is a dead meme</h2>
 
 <ul>
 <li>Why is this a rule!</li>
 </ul>
 
-<h2>Rule 22: Username/nickname rule breaking</h2>
+<h2>Rule 21: Username/nickname rule breaking</h2>
 
 <ul>
 <li>First time: Censored Nickname</li>
 <li>Other times: Ban</li>
 </ul>
 
-<h2>Rule 23: No posting offensive memes</h2>
+<h2>Rule 22: No posting offensive memes</h2>
 
 <ul>
 <li>First time: Delete Message</li>
@@ -180,7 +174,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Sixth time: Given Naughty Oofs role</li>
 </ul>
 
-<h2>Rule 24: No excessive spoilers</h2>
+<h2>Rule 23: No excessive spoilers</h2>
 
 <ul>
 <li>Everytime: Delete Message and Warn Author</li>
