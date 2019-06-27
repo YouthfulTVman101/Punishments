@@ -150,13 +150,13 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <li>Everytime: Delete Message</li>
 </ul>
 
-<h2>Rule 20: <-- Is a dead meme</h2>
+<h2>Rule 20: Username/nickname rule breaking rules</h2>
 
 <ul>
 <li>Why is this a rule!</li>
 </ul>
 
-<h2>Rule 21: Username/nickname rule breaking</h2>
+<h2>Rule 21: <-- Is a dead meme</h2>
 
 <ul>
 <li>First time: Censored Nickname</li>
